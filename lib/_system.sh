@@ -25,11 +25,11 @@ EOF
 #######################################
 # clones repostories using git
 # Arguments:
-#   None
+# None
 #######################################
 system_git_clone() {
   print_banner
-  printf "${WHITE} 💻 Fazendo download do código Owen Zap...${GRAY_LIGHT}"
+  printf "${WHITE} 💻 Fazendo download do código Izapei...${GRAY_LIGHT}"
   printf "\n\n"
 
 
@@ -49,7 +49,7 @@ EOF
 #######################################
 system_update() {
   print_banner
-  printf "${WHITE} 💻 Vamos atualizar o sistema Owen Zap...${GRAY_LIGHT}"
+  printf "${WHITE} 💻 Vamos atualizar o sistema Izapei...${GRAY_LIGHT}"
   printf "\n\n"
 
   sleep 2
